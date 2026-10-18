@@ -1,0 +1,22 @@
+{
+  "commit": "b769d00b7014bf799106a6810b6ddba972109023",
+  "core_version": "0.1.4",
+  "files": {
+    "__init__.py": "62ac6c642ccfe1e966ad93face738b99cdd703000f150b45e20073b2494dfeac",
+    "client.py": "3bb3c809c940399b84a3ebd9293c3df7c1250023e968ef3ea0a43e079d9b5780",
+    "consent.py": "9c83a7e42a6e5a0d7f0ecaf81c7d205d953cb353df70afb6204a99161d124072",
+    "controller.py": "9beda5bcfd291166c615ca29fcdb22c10b6c448eae63a75eb3c2bd2fdb0c66fc",
+    "export.py": "cdd24aebfc171239f0a396fbb305cff6f41c56b4a84d6bda99286edb0972f547",
+    "flow.py": "90d8cf9cbe44165ca149e5f02122b6e7e9db42395cd8083cd85212232233e7fd",
+    "host.py": "f0e2b3c46139f65fbdcaded42b7d6ab917f303c0bc8e68517a63454a032f1a1e",
+    "memory.py": "9d47eff064c544d1e16e9fdbdb473286ce2ada13be96bb602042289d0e7ce850",
+    "messages.py": "2497b9e626e09c7a6c11bf03270d88dbb8d1f70ba3a8729630ab19aa684fb6d1",
+    "settings.py": "5fc663531c33feba8797f035cf624c068b51b6fb2ee499251fb79fc534d87e90",
+    "telemetry.py": "6870e2a8e1e76e2c7c932ea4509bbdde723d501ef51bcb15b058ccd98cee381f",
+    "text.py": "36404ac83c2bbb1f699c03db61e23344a374052db671377012666269f859ff05",
+    "units.py": "ee180c15d63376ad157a972483716b9b7a6130399c96577056eb679a46990696",
+    "viewmodel.py": "ebf9449e795f7d2fa7581ce6cea10dd134297bb1ca680065dcf77ecd819f75b5",
+    "worker.py": "07bf7fc816ba2bfe9e867074f4efbc205f8142bb50d58c6728acae212bbe63b6"
+  },
+  "repo": "makepartsnow/makepartsnow-cad-core"
+}

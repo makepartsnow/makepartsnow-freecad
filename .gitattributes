@@ -1,0 +1,2 @@
+# The vendored core is pinned by SHA-256 (core/CORE_PIN.json): keep its bytes as committed, never convert line endings.
+freecad/MakePartsNow/core/* -text

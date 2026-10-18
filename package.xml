@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>Make Parts Now</name>
+  <description>Instant prices for 3D printing the selected bodies in SLS nylon (PA12) or FDM plastics, then order them on makepartsnow.com. No account needed. Sends the selected parts to makepartsnow.com only when you click Get instant quote.</description>
+  <version>0.1.2</version>
+  <date>2026-10-18</date>
+  <maintainer email="nathan@makepartsnow.com">Make Parts Now</maintainer>
+  <license file="LICENSE">MIT</license>
+  <url type="repository" branch="main">https://github.com/makepartsnow/makepartsnow-freecad</url>
+  <url type="bugtracker">https://github.com/makepartsnow/makepartsnow-freecad/issues</url>
+  <url type="website">https://makepartsnow.com</url>
+  <url type="readme">https://github.com/makepartsnow/makepartsnow-freecad/blob/main/README.md</url>
+  <icon>freecad/MakePartsNow/resources/icons/MakePartsNow.svg</icon>
+  <content>
+    <workbench>
+      <name>Make Parts Now</name>
+      <classname>MakePartsNowWorkbench</classname>
+      <subdirectory>./</subdirectory>
+      <icon>freecad/MakePartsNow/resources/icons/MakePartsNow.svg</icon>
+      <freecadmin>1.0.0</freecadmin>
+      <pythonmin>3.11</pythonmin>
+      <tag>3D printing</tag>
+      <tag>manufacturing</tag>
+      <tag>quote</tag>
+    </workbench>
+  </content>
+</package>
